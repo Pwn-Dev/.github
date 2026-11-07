@@ -1,4 +1,3 @@
-# .github
 <div align="center">
 
 <img src="./banner.svg" alt="PWN Tecnologia - Software, integrações e consultoria para o seu negócio" width="100%">
